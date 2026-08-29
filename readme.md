@@ -1,6 +1,6 @@
 # PETBUY
 
-Projeto bimestral da disciplina de Interfaces Web — uma loja e-commerce de pets com sistema de cadastro e exibição de produtos (animais) em cards.
+Projeto de curto prazo em html, css e javascript com o objetivo de desenvolver um site simples destinados a um serviço de compra e venda de pets.
 
 Sobre o projeto
  
@@ -33,6 +33,4 @@ Cada card exibe: imagem, título (nome + tipo/raça do pet), descrição e preç
 Layout adaptado para diferentes resoluções de tela (desktop, tablet e mobile).
 
 
-Autor
-
-Projeto desenvolvido por Matheus Alves Kutchukian como atividade bimestral da disciplina de Interfaces Web.
+Projeto desenvolvido por Matheus Alves Kutchukian como atividade da disciplina de Interfaces Web II.
